@@ -1,7 +1,7 @@
 const flags = [
   {
     id: 'ad',
-    image: 'imgs/flags/ad.svg',
+  image: 'imgs/flags/ad.svg',
     name: 'Andorra',
   },
   {
