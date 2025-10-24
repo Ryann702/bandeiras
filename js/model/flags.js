@@ -35,11 +35,6 @@ const flags = [
     name: 'Armenia',
   },
   {
-    id: 'an',
-    image: 'imgs/flags/an.svg',
-    name: 'Netherlands Antilles',
-  },
-  {
     id: 'ao',
     image: 'imgs/flags/ao.svg',
     name: 'Angola',
