@@ -1,6 +1,6 @@
 import flags from './model/flags.js';
 
-const areaPrincipal = document.querySelector('main');
+const areaPrincipal = document.querySelector('flags-container');
 
 for (const bandeira of flags) {
   const layoutDaBandeira = criarLayoutDaBandeira(bandeira);
